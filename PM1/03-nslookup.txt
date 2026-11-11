@@ -1,0 +1,9 @@
+Server:		192.168.147.90
+Address:	192.168.147.90#53
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.232.216.135
+Name:	networkwalks.com
+Address: 2c0f:f5c0:150:103::c0e8:d887
+
