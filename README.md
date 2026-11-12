@@ -121,7 +121,7 @@ The exercises also improved my understanding of documenting technical activities
 
 ### 8.2 PM5 – Zenmap
 
-- [Zenmap Topology PDF](PM5-ZENMAP/wk2%20zenmap.pdf)
+- [Zenmap Topology PDF](PM5-ZENMAP/wk2zenmap.pdf)
 - [PM5 Documentation](PM5-ZENMAP/README.md)
 
 **Note:** The publicly shared topology PDF is redacted. Individual Zenmap scan screenshots were not saved.
