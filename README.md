@@ -124,7 +124,7 @@ The exercises also improved my understanding of documenting technical activities
 - [Zenmap Topology PDF](PM1/PM5-ZENMAP/wk2zenmap.pdf)
 - [PM5 Documentation](PM1/PM5-ZENMAP/README.md)
 
-**Note:** The publicly shared topology PDF is redacted. Individual Zenmap scan screenshots were not saved.
+**Privacy Note:** The publicly shared topology PDF has been redacted to protect private local network IP addresses. The topology structure has been retained for documentation. The original unredacted PDF is kept privately. Individual Zenmap scan screenshots were not saved.
 
 ---
 
