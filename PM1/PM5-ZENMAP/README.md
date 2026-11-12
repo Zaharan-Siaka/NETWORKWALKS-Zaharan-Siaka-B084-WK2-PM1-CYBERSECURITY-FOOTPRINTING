@@ -19,6 +19,14 @@ To perform network discovery using Zenmap in Kali Linux.
 - 28 hosts up out of 256 addresses.
 - 30 IP-address entries displayed in the topology diagram.
 
+## Privacy and Evidence Protection
+
+The original Zenmap topology contains private local network IP addresses. To protect network privacy, a redacted version of the topology has been uploaded to this public repository.
+
+The exact IP addresses have been kept private, while the topology structure and network-mapping evidence have been retained for documentation and assessment purposes.
+
+The original, unredacted topology is kept privately.
+
 ## Evidence
 - Zenmap scan screenshot/output.
 - Redacted topology PDF.
