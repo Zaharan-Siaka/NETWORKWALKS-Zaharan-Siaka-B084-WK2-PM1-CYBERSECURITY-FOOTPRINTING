@@ -65,9 +65,9 @@ Zenmap was used in Kali Linux to perform host discovery on an authorized local n
 nmap -sn <authorized-network-range>
 ```
 
-The scan reported 28 hosts up out of 256 addresses. The topology diagram displayed 30 IP-address entries.
+The scan reported 28 hosts up out of 256 addresses. The original topology diagram displayed 30 IP-address entries. These figures represent the scan's host count and the topology's displayed entries respectively.
 
-The scan results and topology diagram were reviewed and saved as evidence.
+The topology diagram was saved as a PDF and included in the repository in redacted form to protect private local network information. Individual Zenmap scan screenshots were not saved.
 
 ## 5. Risk Analysis / Impact
 
