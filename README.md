@@ -96,20 +96,37 @@ I learned how to gather domain information, inspect website technologies, examin
 
 The exercises also improved my understanding of documenting technical activities and handling cybersecurity evidence responsibly.
 
+
 ## 8. Evidences Collected
 
-The following evidence is available in this repository:
+### 8.1 PM1 – Footprinting
 
-### PM1 – Footprinting
-- Six text output files.
-- Screenshots of the footprinting activities.
+**Text Outputs:**
+- [WHOIS Output](PM1/01-WHOIS.txt)
+- [WhatWeb Output](PM1/02-Whatweb.txt)
+- [NSLookup Output](PM1/03-nslookup.txt)
+- [cURL Output](PM1/04-curl.txt)
+- [WAFW00F Output](PM1/05-wafw00f.txt)
+- [DNSRecon Output](PM1/06-dnsrecon.txt)
 
-### PM5 – Zenmap
-- Zenmap topology PDF (redacted copy for public sharing).
-- PM5 README documenting the exercise.
+**Screenshots:**
+- [WHOIS Screenshot 1](PM1/Screenshots/WHOIS-1.png)
+- [WHOIS Screenshot 2](PM1/Screenshots/WHOIS-2.png)
+- [WHOIS Screenshot 3](PM1/Screenshots/WHOIS-3.png)
+- [WhatWeb Screenshot](PM1/Screenshots/whatweb.png)
+- [NSLookup Screenshot](PM1/Screenshots/nslookup.png)
+- [cURL Screenshot](PM1/Screenshots/curl.png)
+- [WAFW00F Screenshot](PM1/Screenshots/wafw00f.png)
+- [DNSRecon Screenshot](PM1/Screenshots/dnsrecon.png)
 
-**Note:** The original topology PDF is retained privately. Individual Zenmap scan screenshots were not saved.
+### 8.2 PM5 – Zenmap
+
+- [Zenmap Topology PDF](PM5-ZENMAP/wk2%20zenmap.pdf)
+- [PM5 Documentation](PM5-ZENMAP/README.md)
+
+**Note:** The publicly shared topology PDF is redacted. Individual Zenmap scan screenshots were not saved.
 
 ---
 
 **End of Report**
+
